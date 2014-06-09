@@ -38,7 +38,7 @@
     <!-- Für Toast -->
 
     <string name="title_activity_overview">Overview</string>
-    <string name="hello_world">Hello world!</string>
     <string name="title_activity_add_film">AddFilmActivity</string>
+    <string name="title_activity_add_photo">AddPhotoActivity</string>
 
 </resources>
