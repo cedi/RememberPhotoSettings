@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photosettings</string>
+    <string name="list_99">99+</string>
+    <string name="debug_copy_succeed">Kopieren erfolgreich</string>
+
+    <!-- Default Liste -->
+    <string name="liste_entry">Eingang</string>
+
+    <!-- ActionBar Einträge -->
+    <string name="action_debug_dump_db">Dump DB</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Speichern</string>
+    <string name="action_add">Hinzufügen</string>
+
+    <!-- Button Beschriftungen -->
+
+
+    <!-- Hints -->
+
+
+    <!-- Drawer beschriftungen -->
+
+
+    <!-- TextView beschriftungen -->
+
+
+    <!-- Dialog beschriftungen -->
+
+
+    <!-- Fehlermeldungen -->
+
+
+    <!-- Für Contextmenue -->
+
+
+    <!-- Für Toast -->
+
+    <string name="title_activity_overview">Overview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_film">AddFilmActivity</string>
+
+</resources>

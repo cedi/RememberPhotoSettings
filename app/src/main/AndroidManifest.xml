@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.c3d1.rememberphotosettings.app"
+    android:versionCode="0"
+    android:versionName="Beta 2" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.c3d1.rememberphotosettings.app.OverviewActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AddPhotoActivity"
+            android:label="Main" >
+        </activity>
+        <activity
+            android:name="com.c3d1.rememberphotosettings.app.AddFilmActivity"
+            android:label="@string/title_activity_add_film" >
+        </activity>
+    </application>
+
+</manifest>

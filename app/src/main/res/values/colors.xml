@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Farben -->
+    <color name="transparent">@android:color/transparent</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_light">#2C2C2C</color>
+    <color name="blue">#5297CB</color>
+    <color name="blue_light">#6AB3E5</color>
+    <color name="blue_light_extra">#B3D8ED</color>
+    <color name="orange_dark">#E5460F</color>
+    <color name="orange_light">#ffbb33</color>
+    <color name="orange_light_extra">#ffe6c8</color>
+    <color name="grey_dark_extra">#AFAFAF</color>
+    <color name="grey_dark">#C2C2C2</color>
+    <color name="grey">#D5D5D5</color>
+    <color name="grey_light">#E3E3E3</color>
+    <color name="grey_light_extra">#F4F4F4</color>
+    <color name="list_item_color">@color/white</color>
+
+    <!-- Main Layout -->
+    <color name="main.bkgnd_color">@color/white</color>
+
+</resources>
